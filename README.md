@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on : Medication Reminder application for Elderly people .
-<br>👯I'm looking to Collaborate on Projects related to : Android Development and Web Development .
-<br>🌱 I'm currently learning : Android development and DSA .
+<br>👯I'm looking to Collaborate on Projects related to : Artificial intelligence and Android Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-juyal-573b2a255) 
