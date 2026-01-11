@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>👯I'm looking to Collaborate on Projects related to : Artificial intelligence and Android Development
-<br>currently working on a Project for Airothon
+<br>👯I'm looking to Collaborate on Projects related to : Artificial intelligence 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishita-juyal-573b2a255) 
