@@ -55,10 +55,6 @@
 
 </p>
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ishitajuyal&show_icons=true&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitajuyal&layout=compact&theme=radical&hide_border=true" />
 
 ---
 
