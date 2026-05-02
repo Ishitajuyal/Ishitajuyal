@@ -32,28 +32,33 @@
 
 ## 💻 Tech Stack
 <p align="center">
+
+<!-- Languages -->
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma"/>
-<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva"/>
+
+<!-- Data & ML -->
 <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly"/>
+<img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-yellow?style=for-the-badge&logo=scikit-learn"/>
 <img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Prettier-yellow?style=for-the-badge&logo=prettier"/>
+<img src="https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishitajuyal&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitajuyal&layout=compact&theme=radical"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishitajuyal&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitajuyal&layout=compact&theme=radical&hide_border=true" />
 
 ---
 
